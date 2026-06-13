@@ -1,0 +1,10 @@
+import logo from "./logo.png";
+import logo_home from "./logo-home.png";
+import header from "./header.png"
+
+
+export const assets = {
+  logo,
+  logo_home,
+  header,
+}
